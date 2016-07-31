@@ -1,5 +1,5 @@
 # Web Aplikasi
-web app adalah web aplikasi service di buat oleh Sholauddin Alfatah dan Open source bisa di kembangkan oleh kalian.
+Web app adalah web aplikasi service di buat oleh Sholauddin Alfatah dan Open source bisa di kembangkan oleh kalian.
 <br>
 Notice: Web APP akan update tools2 berikutnya dan bersabarlah Trims.
 
@@ -10,3 +10,5 @@ Notice: Web APP akan update tools2 berikutnya dan bersabarlah Trims.
 View Image web app
 - http://prntscr.com/bzudu0
 - http://prntscr.com/bzudzc
+
+By Dev Alafatah.ID
