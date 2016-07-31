@@ -1,5 +1,5 @@
 # Web Aplikasi
-Web app adalah web aplikasi service Open source dan bisa di kembamgkan oleh kalian. 
+Web app adalah web aplikasi service Open source dan bisa di kembangkan oleh kalian, web app juga menyediakan layan-layanan service lainnya, dan tunggu upadate-updatetan tools baru berikutnya
 <br>
 Notice: Web APP akan update tools2 berikutnya dan bersabarlah Trims.
 
